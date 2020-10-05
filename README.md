@@ -5,3 +5,5 @@ PREREQUSITE:
 MYSQL DATABASE ON SYSTEM. 
 Create a DB.
 Provide the url in spring.datasource.url of your DB in application.properties.
+
+Exception Handling for SpringBoot Rest API using @ControllerAdvice and @ExceptionHandler
